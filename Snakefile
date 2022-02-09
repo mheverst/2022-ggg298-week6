@@ -1,4 +1,3 @@
-sdgfsdgsd
 rule all:
     input: "hello.txt", "howdy.txt"
 
